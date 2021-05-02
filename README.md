@@ -11,6 +11,7 @@ A website that offers online marketing solutions.
 https://koberstine.github.io/horiseon/
 
 ## Screenshot
+![](https://github.com/koberstine/Horiseon/blob/main/screenshot.jpg)
 
 ## Contribution
 Made with ❤️ by [Chris Koberstine]
